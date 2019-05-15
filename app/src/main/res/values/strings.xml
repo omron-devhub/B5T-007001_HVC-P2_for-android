@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HVC-P2 Sample</string>
+    <string name="chkSTB">Stabilization</string>
+    <string name="btnConnect">Connect</string>
+    <string name="btnDisconnect">Disconnect</string>
+    <string name="btnExecute">Execute</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnRegister">Register</string>
+</resources>
